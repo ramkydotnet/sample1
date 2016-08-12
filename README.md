@@ -1,2 +1,2 @@
 # sample1
-just another repository
+just another
